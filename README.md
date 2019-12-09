@@ -1,0 +1,2 @@
+# HeatMapUnity
+This project uses C# and Unity to build from the GridMap built in a previous repository.  Using an integer range (0-100), when a user clicks on a point on the grid map, "heat" is cascaded down from the center point outward.  Hot is noted as green (100) &amp; cold noted as red (0).  The color gradients dependent on the integer between 0 - 100.  This project can be useful in ways, such as, mapping users distance covered &amp; frequency, velocity-resistance, and many other analytical uses. 
